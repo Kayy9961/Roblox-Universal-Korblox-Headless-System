@@ -2,6 +2,8 @@
 
 Un script de personalización universal diseñado para ofrecer una experiencia premium de **Korblox** y **Headless** personalizable. A diferencia de otros scripts, este permite usar cualquier malla (Mesh) y textura mediante un panel de ajustes dinámico.
 
+Tutorial: Discord.gg/KayyShopV2
+
 <img width="867" height="619" alt="image" src="https://github.com/user-attachments/assets/ecb556ca-b3dc-4871-b52d-c996e8a44707" />
 
 ## ✨ Características Principales
